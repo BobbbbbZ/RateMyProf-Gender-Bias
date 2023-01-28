@@ -1,0 +1,3 @@
+- Fix provided task 3 code
+- Completed all of task 3 (code writing and testing)
+- Cleaned up project code

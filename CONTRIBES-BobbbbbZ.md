@@ -1,0 +1,2 @@
+- implemented all methods, tests and specifications in ngrams and sentimentanalysis.
+- collaborated on design method for task 2.

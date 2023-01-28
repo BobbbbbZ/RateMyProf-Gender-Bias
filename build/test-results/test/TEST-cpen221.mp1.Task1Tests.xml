@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cpen221.mp1.Task1Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-20T20:04:02" hostname="MSI" time="0.038">
+  <properties/>
+  <testcase name="testGetBagOfWords()" classname="cpen221.mp1.Task1Tests" time="0.038"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

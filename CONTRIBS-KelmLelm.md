@@ -1,0 +1,1 @@
+For MP1, I came up with the method for task two and partnered with a teammate for the implementation. I also and wrote the majority of the tests for task two. These tests also test parts of task one.
